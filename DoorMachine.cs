@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tpmodul4_1302220144
+namespace tpmodul4
 {
     enum DoorState
     {
