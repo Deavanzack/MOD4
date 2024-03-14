@@ -1,4 +1,4 @@
-﻿using tpmodul4_1302220144;
+﻿using tpmodul4;
 
 internal class Program
 {
